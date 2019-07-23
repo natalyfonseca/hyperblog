@@ -2,3 +2,8 @@ Ivan D. Sánchez
 Ingeniero desarrollador de software
 
 Nacido en Colombia
+Residente en Mexico
+
+Mis competencias 
+
+Frontend -> CSS, HTML, JS
