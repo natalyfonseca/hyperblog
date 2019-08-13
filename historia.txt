@@ -7,3 +7,9 @@ Residente en Mexico
 Mis competencias 
 
 Frontend -> CSS, HTML, JS
+Backend -> PHP, Java, JavaScript
+Bases de datos -> MySQL
+Servidores -> Ubuntu Server, Windows Server
+
+Correo de contacto
+cosmosoft.soluciones@gmail.com
