@@ -1,4 +1,4 @@
-Ivan D. Sánchez
+﻿Ivan D. Sánchez
 Ingeniero desarrollador de software
 
 Nacido en Colombia
@@ -18,3 +18,4 @@ cosmosoft.soluciones@gmail.com
 
 Nataly Fonseca Guevara
 nataly.fg@gmail.com
+Nacida en Bogotá, Colombia
